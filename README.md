@@ -3,8 +3,9 @@ RU
 --------------------------------------------------------------------------------------------------------------------------------------
 
 Файлы, необходимые для полноценной работы мода.
-Автомобили и запчасти к ним будут спавниться в мире вместе с ванильными. 
-Также включены дополнительные точки спавна (взяты отсюда же).
+Автомобили и запчасти к ним будут спавниться в мире вместе с ванильными.
+Обратите внимание - чать автомобилей использует стандартные точки спавна.
+Также включены дополнительные точки спавна (взяты из файлов, в обсуждениях к моду в стиме).
 Не включает в себя прайсинг для торговца.
 Также присутствует экселька для облегчения работы со списком.
 
@@ -39,7 +40,7 @@ EN
 
 The files necessary for the mod to work properly.
 Cars and their spare parts will spawn in the world along with vanilla ones. 
-Additional spawn points are also included (taken from here).
+Additional spawn points are also included (taken from files in discussions on steam).
 It does not include the pricing for the merchant.
 There is also an excel card to make it easier to work with the list.
 
