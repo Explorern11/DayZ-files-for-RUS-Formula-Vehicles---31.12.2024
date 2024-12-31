@@ -12,7 +12,7 @@ RU
 --------------------------------------------------------------------------------------------------------------------------------------
 Для тех, кто не знает как это работает. 
 
-Для корректной работы необходимы четыре файла - types и events в папке mpmissions\dayzOffline.chernarusplus\db, и 
+Для корректной работы необходимо добавить модельки в четыре файла - types и events в папке mpmissions\dayzOffline.chernarusplus\db, и 
 cfgspawnabletypes и cfgeventspawns в папке mpmissions\dayzOffline.chernarusplus. (для других карт - другая директория соответственно).
 
 Файл types - содержит параметры предмета на сервере - время жизни, флаги, теги для спавна и т.п.
@@ -25,7 +25,8 @@ cfgspawnabletypes и cfgeventspawns в папке mpmissions\dayzOffline.chernar
 
 И связанный с ним файл cfgeventspawns - содержит в себе координаты, где это событие будет вызываться.
 
-Для корректной работы мода необходимо добавить и правильно настроить эти четыре файла, иначе модельки спавниться не будут.
+Для корректной работы мода необходимо добавить содержимое этих четырёх файлов в одноимённые файлы в папке с игрой 
+(расположение как в описании).
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -61,7 +62,8 @@ it creates, etc.
 
 Associated cfgeventspawns file contains the coordinates where this event will be triggered.
 
-For the mod to work correctly, you need to add and configure these four files correctly, otherwise the models will not spawn.
+For the mod to work correctly, you need to add the contents of these four files to same in the game folder. 
+(the location is as described).
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
